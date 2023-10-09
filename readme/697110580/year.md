@@ -1,7 +1,7 @@
 ## [🔙 my-github-profile-views-counter](https://github.com/kinleyrabgay/my-github-profile-views-counter)
 
-### :octocat: [reactjs-youtube-clone](https://github.com/kinleyrabgay/reactjs-youtube-clone)
-![Image of my-github-profile-views-counter](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/graph/619128532/large/year.png)
+### :octocat: [bloc_todo](https://github.com/kinleyrabgay/bloc_todo)
+![Image of my-github-profile-views-counter](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/graph/697110580/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>3</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2023/9/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>57</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-github-profile-views-counter](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/svg/619128532/badge.svg)](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/readme/619128532/week.md)
+[![Image of my-github-profile-views-counter](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/svg/697110580/badge.svg)](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/readme/697110580/week.md)
 ```readme
-[![Image of my-github-profile-views-counter](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/svg/619128532/badge.svg)](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/readme/619128532/week.md)
+[![Image of my-github-profile-views-counter](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/svg/697110580/badge.svg)](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/readme/697110580/week.md)
 ```
 ### Header
-# reactjs-youtube-clone [<img alt="Image of my-github-profile-views-counter" src="https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/graph/619128532/small/year.png" height="20">](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/readme/619128532/year.md)
+# bloc_todo [<img alt="Image of my-github-profile-views-counter" src="https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/graph/697110580/small/year.png" height="20">](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/readme/697110580/year.md)
 ```readme
-# reactjs-youtube-clone [<img alt="Image of my-github-profile-views-counter" src="https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/graph/619128532/small/year.png" height="20">](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/readme/619128532/year.md)
+# bloc_todo [<img alt="Image of my-github-profile-views-counter" src="https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/graph/697110580/small/year.png" height="20">](https://github.com/kinleyrabgay/my-github-profile-views-counter/blob/master/readme/697110580/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
