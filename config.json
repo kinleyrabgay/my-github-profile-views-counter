@@ -3,6 +3,7 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "snixie_portfolio",
+    "reactjs-youtube-clone"
   ]
 }
